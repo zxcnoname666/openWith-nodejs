@@ -1,0 +1,39 @@
+{
+  "name": "open-with",
+  "version": "1.0.0",
+  "description": "Open file with \"open with\" dialog",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "install": "node build",
+    "build": "node-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fydne/openWith-nodejs.git"
+  },
+  "keywords": [
+    "open",
+    "open with",
+    "open as",
+    "open file",
+    "open in application",
+    "execute with",
+    "execute as",
+    "execute file",
+    "node.js"
+  ],
+  "author": "fydne",
+  "license": "MIT",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/fydne/openWith-nodejs/issues"
+  },
+  "homepage": "https://github.com/fydne/openWith-nodejs#readme",
+  "dependencies": {
+    "node-addon-api": "^6.1.0"
+  },
+  "devDependencies": {
+    "node-gyp": "^9.3.1"
+  }
+}
