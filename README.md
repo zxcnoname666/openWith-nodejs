@@ -22,12 +22,12 @@ Opens a dialog window with the choice of application to open the file.
 
 # Example code
 ```js
-const openWith = require('open-with');
+const openWith = require('open_with');
 
 const result = openWith.open(__dirname + '/index.js');
 ```
 ```js
-const openWith = require('open-with');
+const openWith = require('open_with');
 const path = require('path');
 
 const result = openWith.open(path.join(__dirname, 'index.js'));
