@@ -1,4 +1,4 @@
-# Notify Manager
+# OpenWith
 <p align="center">
 <a href="javascript:void(0)">
 <img src="https://readme-typing-svg.herokuapp.com?font=Jost&pause=10000&color=DB33F7&center=true&vCenter=true&width=435&lines=Open+With">
