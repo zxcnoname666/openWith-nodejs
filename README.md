@@ -16,7 +16,7 @@ Opens a dialog window with the choice of application to open the file.
 #### Result:
 <p align="center">
 <a href="javascript:void(0)">
-<img src="https://github.com/fydne/openWith-nodejs/assets/121295212/ea3b18aa-3ce4-4c89-be06-2ce8d4d2e61f">
+<img src="https://github.com/fydne/openWith-nodejs/assets/121295212/e9e4353c-a8d0-4a62-879d-b8b041eb4432">
 </a>
 </p>
 
